@@ -1,0 +1,61 @@
+# The following Tgrep2 queries were used to create the four basic files in the directory corpus_search. The queries were embedded in the following (generic) perl script to cycle through each of the corpus files. Substitute the queries give below for /QUERY/ below.
+
+```
+#!/usr/bin/perl
+ 
+$dir = pop @ARGV;
+
+# Formatting instructions for tgrep2
+$format = qq!%f\t%s\t%t=RC=\t%t=head=\t%t=wh=\t%t=subject=\t%t=environment=%h\n!;
+ 
+@files = glob("$dir/*.tgrep2");
+  
+foreach $f (@files){
+    print "--- ".$f."\n";
+ 
+    $command = sprintf("tgrep -m \"%s\" -c %s %s",$format,$f,qq!"/QUERY/"!) . " >> " . "Output.txt";
+    $out = `$command`;
+    print $out;
+     
+}  
+```
+
+# To generate SRCs.txt (all subject relative clauses)
+
+SBAR=RC < WHNP=wh > NP=container : =container > S=environment : =container < NP=head : =wh . VP=vp
+
+## In plain English. Numbered condition : by : condition. All dominance and precedence relations are immediate.
+
+## 1. Find an SBAR that dominates a WHNP and is dominated by an NP. Label the SBAR 'RC', the WHNP 'wh', and the NP 'container'.
+## 2. Identify the S that dominates the container NP and label it 'environment'.
+## 3. Identify the head of the container NP and label it 'head'.
+## 4. WHNP must immediately precede a VP (labeled 'vp').
+
+# To generate ORCs.txt (all object relative clauses)
+
+SBAR=RC < WHNP=wh > NP=container : =container > S=environment : =container < NP=head : =RC < S=embedded : =wh . NP=subject
+
+## 1-3. Same as SRCs (all)
+## 4. Find the S dominated by RC and label it 'embedded'
+## 5. WHNP must immediately precede an NP (label it subject).
+### N.B. 5 generates some false positive ORCs [see text]
+
+# ADJUNCTS
+
+# To generate XP_SRCs.txt (subject relative clauses with RC-initial adjuncts)
+
+SBAR=RC < WHNP=wh > NP=container : =container > S=environment : =container < NP=head : =RC < S=embedded : =embedded < PP=XP : =wh . =XP : =XP . VP
+
+## 1-3. Same as all SRcs.
+## 4. Identify the S contained inside RC and label it 'embedded'.
+## 5. The embedded S must dominate a PP (label it 'XP')
+## 6. WHNP must precede XP.
+## 7. ...which must precede VP
+
+# To generate XP_ORCs.txt (object relative clauses with RC-initial adjuncts)
+
+SBAR=RC < WHNP=wh > NP=container : =container > S=environment : =container < NP=head : =RC < S=embedded : =embedded < PP=XP : =wh . =XP : =XP . NP=subject : =subject . VP
+
+## 1-6. Same as Adjunct SRCs
+## 7. XP must precede an NP (labeled 'subject')
+## 8. Subject NP must precede VP
