@@ -1,0 +1,801 @@
+# ANIMACY 1 a
+The kindergarten teacher pointed out the colorful toy which, recently, the young girl has played with incessantly.
+? Was the young girl playing with another child? N
+# ANIMACY 1 b
+The kindergarten teacher pointed out the friendly child who, recently, the young girl has played with incessantly.
+? Was the young girl playing with a toy? N
+
+# ANIMACY 1 c
+The kindergarten teacher pointed out the colorful toy with which, recently, the young girl has played incessantly.
+? Was the young girl playing with another child? N
+
+# ANIMACY 1 d
+The kindergarten teacher pointed out the friendly child with whom, recently, the young girl has played with incessantly.
+? Was the young girl playing with a toy? N
+
+# ANIMACY 2 a 
+The house-sitter looked after the record collection which, some say, no knowledgeable person can put a price on.
+? Were the records valuable? Y
+
+# ANIMACY 2 b 
+The house-sitter looked after the show dog which, some say, no knowledgeable person can put a price on.
+? Was the dog valuable? Y
+
+# ANIMACY 2 c 
+The house-sitter looked after the record collection on which, some say, no knowledgeable person can put a price.
+? Were the records valuable? Y
+
+# ANIMACY 2 d 
+The house-sitter looked after the show dog on which, some say, no knowledgeable person can put a price.
+? Was the dog valuable? Y
+
+# ANIMACY 3 a
+The pesky cat pounced on the small toy which, unfortunately, the grumpy owner had accidentally tripped on.
+? Was it a large toy that the owner tripped on? N
+
+# ANIMACY 3 b
+The pesky cat pounced on the injured bird which, unfortunately, the grumpy owner had accidentally tripped on.
+? Was it a dead bird that the owner tripped on? N
+
+# ANIMACY 3 c
+The pesky cat pounced on the small toy  on which, unfortunately, the grumpy owner had accidentally tripped.
+? Was it a large toy that the owner tripped on? N
+
+# ANIMACY 3 d
+The pesky cat pounced on the injured bird on which, unfortunately, the grumpy owner had accidentally tripped.
+? Was it a dead bird that the owner tripped on? N
+
+# ANIMACY 4 a
+The new nurse dutifully noted the restricted drugs which, consequently, the head surgeon should write a report about for her staff review.
+? Was the nurse following hospital rules? Y
+
+# ANIMACY 4 b
+The new nurse dutifully noted the special patients which, consequently, the head surgeon should write a report about for her staff review.
+? Was the nurse following hospital rules? Y
+
+# ANIMACY 4 c
+The new nurse dutifully noted the restricted drugs about which, consequently, the head surgeon should write a report for her staff review.
+? Was the nurse following hospital rules? Y
+
+# ANIMACY 4 d
+The new nurse dutifully noted the special patients about whom, consequently, the head surgeon should write a report for her staff review.
+? Was the nurse following hospital rules? Y
+
+# ANIMACY 5 a
+The head supervisor indicated the complex machines which, this week, the rookie mechanic should not provide service for on her own due to her probationary status.
+? Was the rookie mechanic allowed to work on all the machines? N
+
+# ANIMACY 5 b
+The head supervisor indicated the important clients who, this week, the rookie mechanic should not provide service for on her own due to her probationary status.
+? Was the rookie mechanic allowed to work with all the customers? N
+
+# ANIMACY 5 c
+The head supervisor indicated the complex machines for which, this week, the rookie mechanic should not provide service on her own due to her probationary status.
+? Was the rookie mechanic allowed to work on all the machines? N
+
+# ANIMACY 5 d
+The head supervisor indicated the important clients for whom, this week, the rookie mechanic should not provide service on her own due to her probationary status.
+? Was the rookie mechanic allowed to work with all the customers? N
+
+# ANIMACY 6 a
+The cabbie identified the famous landmarks which, in his opinion, the visitors bureau should offer a guide for at its center during vacation season.
+? Were the landmarks popular during vacation season? Y
+
+# ANIMACY 6 b
+The cabbie identified the confused tourists who, in his opinion, the visitors bureau should offer a guide for at its center during vacation season. 
+? Were the tourists confused during vacation season? Y
+
+# ANIMACY 6 c
+The cabbie identified the famous landmarks for which, in his opinion, the visitors bureau should offer a guide at its center during vacation season. 
+? Were the landmarks popular during vacation season? Y
+
+# ANIMACY 6 d
+The cabbie identified the confused tourists for whom, in his opinion, the visitors bureau should offer a guide at its center during vacation season. 
+? Were the tourists confused during vacation season? Y
+
+# ANIMACY 7 a
+The caring professor examined the lengthy essays which, each quarter, a teaching assistant would write some feedback for before the midterm was scheduled.
+? Would the professor be writing feedback on the essays? N
+
+# ANIMACY 7 b
+The caring professor examined the failing students who, each quarter, a teaching assistant would write some feedback for before the midterm was scheduled.
+? Would the professor be writing feedback on the essays? N
+
+# ANIMACY 7 c
+The caring professor examined the lengthy essays for which, each quarter, a teaching assistant would write some feedback before the midterm was scheduled.
+? Would the professor be writing feedback on the essays? N
+
+# ANIMACY 7 d
+The caring professor examined the failing students for whom, each quarter, a teaching assistant would write some feedback before the midterm was scheduled.
+? Would the professor be writing feedback on the essays? N
+
+# ANIMACY 8 a
+The cook mentioned the complicated dishes which, the hostess warned, the experienced waiter should prepare the table for well before their arrival.
+? Did the hostess believe the table should be prepared in advance? Y
+
+# ANIMACY 8 b
+The cook mentioned the fussy diners which, the hostess warned, the experienced waiter should prepare the table for well before their arrival.
+? Did the hostess believe the table should be prepared in advance? Y
+
+# ANIMACY 8 c
+The cook mentioned the complicated dishes for which, the hostess warned, the experienced waiter should prepare the table well before their arrival.
+? Did the hostess believe the table should be prepared in advance? Y
+
+# ANIMACY 8 d
+The cook mentioned the fussy diners for whom, the hostess warned, the experienced waiter should prepare the table well before their arrival.
+? Did the hostess believe the table should be prepared in advance? Y
+
+# ANIMACY 9 a
+The top executive introduced the redesigned car which, this summer, the insurance branch should tailor their ads to.
+? Should the executive branch tailor their ads to the redesigned car? N
+
+# ANIMACY 9 b
+The top executive introduced the target buyers who, this summer, the insurance branch should tailor their ads to.
+? Should the executive branch tailor their ads to the redesigned car? N
+
+# ANIMACY 9 c
+The top executive introduced the resigned car to which, this summer, the insurance branch should tailor their ads.
+? Should the executive branch tailor their ads to the redesigned car? N
+
+# ANIMACY 9 d
+The top executive introduced the target buyers to whom, this summer, the insurance branch should tailor their ads.
+? Should the executive branch tailor their ads to the redesigned car? N
+
+# ANIMACY 10 a
+The wary neighbor eyed the rickety ladder which, most regrettably, the inattentive father was not keeping enough of an eye on while he gardened.
+? Was the father focusing on his gardening? Y
+
+# ANIMACY 10 b
+The wary neighbor eyed the rambunctious child who, most regrettable, the inattentive father was not keeping enough of an eye on while he gardened.
+? Was the father focusing on his gardening? Y
+
+# ANIMACY 10 c
+The wary neighbor eyed the rickety ladder on which, most regrettably, the inattentive father was not keeping enough of an eye while he gardened.
+? Was the father focusing on his gardening? Y
+
+# ANIMACY 10 d
+The wary neighbor eyed the rambunctious child on whom, most regrettably, the inattentive father was not keeping enough of an eye while he gardened.
+? Was the father focusing on his gardening? Y
+
+# ANIMACY 11 a
+The long-time zookeeper laughed about the bizarre treats which, surprisingly, the curious gorillas had taken a great liking to almost immediately. 
+? Were the gorillas hesitant about the treats? N
+
+# ANIMACY 11 b
+The long-time zookeeper laughed about the fragile kitten who, surprisingly, the curious gorillas had taken a great liking to almost immediately. 
+? Were the gorillas hesitant about the kitten? N
+
+# ANIMACY 11 c
+The long-time zookeeper laughed about the  bizarre treats to which, surprisingly, the curious gorillas had taken a great liking almost immediately. 
+? Were the gorillas hesitant about the treats? N
+
+# ANIMACY 11 d
+The long-time zookeeper  laughed about the fragile kitten to whom, surprisingly, the curious gorillas had taken a great liking almost immediately.
+? Were the gorillas hesitant about the kitten? N
+
+# ANIMACY 12 a
+The nervous barista stared at the spilled beans which, unfortunately, his immediate supervisor should be notified about.
+? Did the barista plan to notify his supervisor? Y
+
+# ANIMACY 12 b
+The nervous barista stared at the disgruntled customer who, unfortunately, his immediate supervisor should be notified about.
+? Did the barista plan to notify his supervisor? Y
+
+# ANIMACY 12 c
+The nervous barista stared at the spilled beans about which, unfortunately, his immediate supervisor should be notified.
+? Did the barista plan to notify his supervisor? Y
+
+# ANIMACY 12 d
+The nervous barista stared at the disgruntled customer about whom, unfortunately, his immediate supervisor should be notified.
+? Did the barista plan to notify his supervisor? Y
+
+# ANIMACY 13 a
+The freshmen stood before the lecture hall which, guidebooks say, their prestigious university had gained national esteem for in recent years.
+? Had the lecture hall been on the campus for a long time? N
+
+# ANIMACY 13 b
+The freshmen stood before the genius professor who, guidebooks say, their prestigious university had gained national esteem for in recent years.
+? Had the professor been on the campus for a long time? N
+
+# ANIMACY 13 c
+The freshmen stood before the lecture hall for which, guidebooks say, their prestigious university had gained national esteem in recent years.
+? Had the lecture hall been on the campus for a long time? N
+
+# ANIMACY 13 d
+The freshmen stood before the genius professor for whom, guidebooks say, their prestigious university had gained national esteem in recent years.
+? Had the professor been on the campus for a long time? N
+
+# ANIMACY 14 a
+The budding journalist reported on the aging tree which, contraversially, a growing fan-base was developing for despite the cities attempts to hide the story.
+? Was the journalist reporting a controversial story? Y
+
+# ANIMACY 14 b
+The budding journalist reported on the vigilante crime-fighter who, contraversially, a growing fan-base was developing for despite the cities attempts to hide the story.
+? Was the journalist reporting a controversial story? Y
+
+# ANIMACY 14 c
+The budding journalist reported on the aging tree for which, contraversially, a growing fan-base was developing despite the cities attempts to hide the story.
+? Was the journalist reporting a controversial story? Y
+
+# ANIMACY 14 d 
+The budding journalist reported on the vigilante crime-fighter for whom, contraversially, a growing fan-base was developing despite the cities attempts to hide the story.
+? Was the journalist reporting a controversial story? Y
+
+# ANIMACY 15 a
+The tired actress swiftly avoided the flashing cameras which, regrettably, most A-List celebrities must become accustomed to as a result of their public adoration.
+? Did the actress allow her picture to be taken? N
+
+# ANIMACY 15 b  
+The tired actress swiftly avoided the shouting papparazi who, regrettably, most A-List celebrities must become accustomed to as a result of their public adoration.
+? Did the actress allow her picture to be taken? N
+
+# ANIMACY 15 c  
+The tired actress swiftly avoided the flashing cameras to which, regrettably, most A-List celebrities must become accustomed as a result of their public adoration.
+? Did the actress allow her picture to be taken? N
+
+# ANIMACY 15 d  
+The tired actress swiftly avoided the shouting papparazi to whom, regrettably, most A-List celebrities must become accustomed as a result of their public adoration.
+? Did the actress allow her picture to be taken? N
+
+# ANIMACY 16 a 
+The security officer searched the suspicious bag which, sources say, the paranoid CEO had been keeping tabs on ever since the security leak last month.
+? Was the company increasing security? Y
+
+# ANIMACY 16 b
+The security officer searched the suspicious man who, sources say, the paranoid CEO had been keeping tabs on ever since the security leak last month.
+? Was the company increasing security? Y
+
+# ANIMACY 16 c 
+The security officer searched the suspicious bag on which, sources say, the paranoid CEO had been keeping tabs ever since the security leak last month.
+? Was the company increasing security? Y
+
+# ANIMACY 16 d
+The security officer searched the suspicious man on whom, sources say, the paranoid CEO had been keeping tabs ever since the security leak last month.
+? Was the company increasing security? Y
+
+# ANIMACY 17 a  
+The scholar looked to the contaversial text which, only recently, the academic community owed much of their findings to.
+? Did the academic community disregard the important text? N
+
+# ANIMACY 17 b  
+The scholar looked to his aging mentor who, only recently, the academic community owed much of their findings to.
+? Did the academic community disregard the important text? N
+
+# ANIMACY 17 c  
+The scholar looked to the contraversial text to which, only recently, the academic community owed much of their findings.
+? Did the academic community disregard the important text? N
+
+# ANIMACY 17 d  
+The scholar looked to his aging mentor to whom, only recently, the academic community owed much of their findings.
+? Did the academic community disregard the important text? N
+
+# ANIMACY 18 a 
+The store clerk helped with the new shipment which, dutifully, the busy manager indicated store clerks are responsible for when they have free time during their shift.
+? Did the clerk have free time? Y
+
+# ANIMACY 18 b 
+The store clerk helped with the elderly customer who, dutifully, the busy manager indicated store clerks are responsible for when they have free time during their shift.
+? Did the clerk have free time? Y
+
+# ANIMACY 18 c 
+The store clerk helped with the new shipment for which, dutifully, the busy manager indicated store clerks are responsible when they have free time during their shift.
+? Did the clerk have free time? Y
+
+# ANIMACY 18 d 
+The store clerk helped with the elderly customer for whom, dutifully, the busy manager indicated store clerks are responsible when they have free time during their shift.
+? Did the clerk have free time? Y
+
+# ANIMACY 19 a  
+The young girl eyed the expensive heels which, though unavailable, her best friend coyly pointed to through the shop window.
+? Was the young girl going to buy the shoes? N
+
+# ANIMACY 19 b  
+The young girl eyed the sales associate which, though unavailable, her best friend coyly pointed to through the shop window.
+? Was the young girl going to talk to the sales associate? N
+
+# ANIMACY 19 c  
+The young girl eyed the expensive heels to which, though unavailable, her best friend coyly pointed through the shop window.
+? Was the young girl going to buy the shoes? N
+
+# ANIMACY 19 d  
+The young girl eyed the sales associate to whom, though unavailable, her best friend coyly pointed through the shop window.
+? Was the young girl going to talk to the sales associate? N
+
+# ANIMACY 20 a  
+The novice painter agonized over the plastic fruit which, truthfully, the intimidating professor had unrealistically requested the students paint a picture of on the first day of class.
+? Did the professor have high expectations? Y
+
+# ANIMACY 20 b 
+The novice painter agonized over the live model who, truthfully, the intimidating professor had unrealistically requested the students paint a picture of on the first day of class.
+? Did the professor have high expectations? Y
+
+# ANIMACY 20 c
+The novice painter agonized over the plastic fruit of which, truthfully, the intimidating professor had unrealistically requested the students paint a picture on the first day of class.
+? Did the professor have high expectations? Y
+
+# ANIMACY 20 d 
+The novice painter agonized over the live model of whom, truthfully, the intimidating professor had unrealistically requested the students paint a picture on the first day of class.
+? Did the professor have high expectations? Y
+
+# ANIMACY 21 a  
+The overworked editor researched the catastrophic event which, publishing said, the renowned author should write her next novel about in order to have 
+another best seller.
+? Did the author research a man for their book? N
+
+# ANIMACY 21 b  
+The overworked editor researched the mysterious man who, publishing said, the renowned author should write her next novel about in order to have another best seller.
+? Did the author research an event for their book? N
+
+# ANIMACY 21 c  
+The overworked editor researched the catastrophic event about which, publishing said, the renowned author should write her next novel in order to have another best seller.
+? Did the author research a man for their book? N
+
+# ANIMACY 21 d 
+The overworked editor researched the mysterious man about whom, publishing said, the renowned author should write her next novel in order to have another best seller.
+? Did the author research an event for their book? N
+
+# ANIMACY 22 a  
+The famed scientist prized the fallen asteroid which, despite controversy, the university's grant funded research on year round.
+? Was the university supportive of the scientist? Y
+
+# ANIMACY 22 b 
+The famed scientist prized the interesting patient who, despite controversy, the university's grant funded research on year round.
+? Was the university supportive of the scientist? Y
+
+# ANIMACY 22 c  
+The famed scientist prized the fallen asteroid on which, despite controversy, the university's grant funded research year round.
+? Was the university supportive of the scientist? Y
+
+# ANIMACY 22 d
+The famed scientist prized the interesting patient on whom, despite controversy, the university's grant funded research year round.
+? Was the university supportive of the scientist? Y
+
+# ANIMACY 23 a 
+The school principal brought the new textbooks which, with impatience, the history class had been waiting for all morning.
+? Did a teacher bring in new textbooks? N
+
+# ANIMACY 23 b
+The school principal brought the new student who, with impatience, the history class had been waiting for all morning.
+? Did a teacher bring in a new student? N
+
+# ANIMACY 23 c   
+The school principal brought the new textbooks for which, with impatience, the history class had been waiting all morning.
+? Did a teacher bring in new textbooks? N
+
+# ANIMACY 23 d  
+The school principal brought the new student for whom, with impatience, the history class had been waiting all morning.
+? Did a teacher bring in a new student? N
+
+# ANIMACY 24 a 
+The newest employee was given the corner office which, unknowingly, the company jokes were centered around due to a story involving spilled coffee and an escaped chameleon.
+? Was the employee oblivious? Y
+
+# ANIMACY 24 b
+The newest employee was given the sales partner who, unknowingly, the company jokes were centered around due to a story involving spilled coffee and an escaped chameleon.
+? Was the employee oblivious? Y
+
+# ANIMACY 24 c
+The newest employee was given the corner office around which, unknowingly, the company jokes were centered due to a story involving spilled coffee and an escaped chameleon.
+? Was the employee oblivious? Y
+
+# ANIMACY 24 d  
+The newest employee was given the sales partner around whom, unknowingly, the company jokes were centered due to a story involving spilled coffee and an escaped chameleon.
+? Was the employee oblivious? Y
+
+# ANIMACY 25 a  
+The excitable commentator praised the shocking touchdown which, despite set-backs, the home team owed it's rosebowl victory to.
+? Did a field goal bring about the victory? N
+
+# ANIMACY 25 b
+The excitable commentator praised the rookie running-back who, despite set-backs, the home team owed it's rosebowl victory to.
+? Did a field goal bring about the victory? N
+
+# ANIMACY 25 c  
+The excitable commentator praised the shocking touchdown to which, despite set-backs, the home team owed it's rosebowl victory.
+? Did a field goal bring about the victory? N
+
+# ANIMACY 25 d  
+The excitable commentator praised the rookie running-back to whom, despite set-backs, the home team owed it's rosebowl victory.
+? Did a field goal bring about the victory? N
+
+# ANIMACY 26 a  
+The friendly dolphin grazed the floating kayak which, dangerously unnoticed, a menacing shark had been anxiously pacing under for the past fifteen minutes.
+? Was the kayaker in danger? Y
+
+# ANIMACY 26 b 
+The friendly dolphin grazed the novice surfer who, dangerously unnoticed, a menacing shark had been anxiously pacing under for the past fifteen minutes.
+? Was the surfer in danger? Y
+
+# ANIMACY 26 c
+The friendly dolphin grazed the floating kayak under which, dangerously unnoticed, a menacing shark had been anxiously pacing for the past fifteen minutes.
+? Was the kayaker in danger? Y
+
+# ANIMACY 26 d
+The friendly dolphin grazed the novice surfer under whom, dangerously unnoticed, a menacing shark had been anxiously pacing for the past fifteen minutes.
+? Was the surfer in danger? Y
+
+# ANIMACY 27 a  
+The strict coach criticized the gymnast's performance which, quite unfairly, the picky judges awarded a low score to, thereby moving the team into third place.
+? Did the coach criticize the team? N
+
+# ANIMACY 27 b 
+The strict coach criticized the young gymnast who, quite unfairly, the picky judges awarded a low score to, thereby moving the team into third place.
+? Did the coach criticize the team? N
+
+# ANIMACY 27 c  
+The strict coach criticized the gymnast's performance to which, quite unfairly, the picky judges awarded a low score, thereby moving the team into third place.
+? Did the coach criticize the team? N
+
+# ANIMACY 27 d
+The strict coach criticized the young gymnast to whom, quite unfairly, the picky judges awarded a low score thereby moving the team into third place.
+? Did the coach criticize the team? N
+
+# ANIMACY 28 a 
+The graduate student presented the promising data which, though interesting, the advising committee had been waiting for for the past two quarters
+? Did  the graduate student keep people waiting? Y
+
+# ANIMACY 28 b
+The graduate student presented the famed researcher who, though interesting, the advising committee had been waiting for for the past two quarters
+? Did  the graduate student keep people waiting? Y
+
+# ANIMACY 28 c  
+The graduate student presented the promising data for which, though interesting, the advising committee had been waiting for the past two quarters
+? Did  the graduate student keep people waiting? Y
+
+# ANIMACY 28 d 
+The graduate student presented the famed researcher for whom, though interesting, the advising committee had been waiting for the past two quarters
+? Did  the graduate student keep people waiting? Y
+
+# ANIMACY 29 a  
+The teacher questioned students about the cookie jar which, strangely, the flustered principal had been searching for since the fire drill that morning.
+? Was the principal searching for the a student? N
+
+# ANIMACY 29 b 
+The teacher questioned students about the escaped kindergartener who, strangely, the flustered principal had been searching for since the fire drill that morning.
+? Was the principal searching for the a cookie jar? N
+
+# ANIMACY 29 c 
+The teacher questioned students about the cookie jar for which, strangely, the flustered principal had been searching since the fire drill that morning.
+? Was the principal searching for the a student? N
+
+# ANIMACY 29 d  
+The teacher questioned students about the escaped kindergartener for whom, strangely,  the flustered principal had been searching since the fire drill that morning.
+? Was the principal searching for the a cookie jar? N
+
+# ANIMACY 30 a
+The adoption specialist was waiting on the cages which, finally, the animal shelter had received state funding for in hopes of increasing the number of adoptions.  
+? Was the adoption specialist waiting on funds? Y
+
+# ANIMACY 30 b
+The adoption specialist was waiting on the volunteers who, finally, the animal shelter had received state funding for in hopes of increasing the number of adoptions.  
+? Was the adoption specialist waiting on funds? Y
+
+# ANIMACY 30 c 
+The adoption specialist was waiting on the cages for which, finally,  the animal shelter had received state funding in hopes of increasing the number of adoptions.  
+? Was the adoption specialist waiting on funds? Y
+
+# ANIMACY 30 d
+The adoption specialist was waiting on the  volunteers for whom, finally, the animal shelter had received state funding in hopes of increasing the number of adoptions.  
+? Was the adoption specialist waiting on funds? Y
+
+# ANIMACY 31 a  
+The eager biologist closely examined the plant species which, recently, a renowned colleague had published a study on for the prestigious conference.
+? Did the biologist publish a study on the plant species? N
+
+# ANIMACY 31 b  
+The eager biologist closely examined the conjoined twins who, recently, a renowned colleague had published a study on for the prestigious conference.
+? Did the biologist publish a study on the plant species? N
+
+# ANIMACY 31 c  
+The eager biologist closely examined the plant species on which, recently, a renowned colleague had published a study for the prestigious conference.
+? Did the biologist publish a study on the plant species? N
+
+# ANIMACY 31 d  
+The eager biologist closely examined the conjoined twins on whom, recently, a renowned colleague had published a study for the prestigious conference.
+? Did the biologist publish a study on the plant species? N
+
+
+
+
+
+# FILLER 9 -
+It seemed creepy that the hotel was built on an ancient burial ground where human sacrifice had taken place.
+? Did it seem creepy that the hotel was built on a burial ground? Y
+
+# FILLER 16 -
+The girls were depressed that it was supposed to rain all week, but they had just had a stretch of nice weather.
+? Were the girls happy about the rain? N
+
+# FILLER 17 -
+Gary was sometimes frightened that the area wildlife could be so violent, but he had such a good job that he didn't want to move.
+? Was Gary frightened about the violent wildlife? Y
+
+# FILLER 18 -
+The teenagers were thrilled that a famous movie star was in town, even though there was no hope of meeting him.
+? Were the teenagers thrilled about the movie star coming? Y
+
+# FILLER 23 -
+Patty was flattered that the students wanted to be in her class, although Tony said she was a pushover.
+? Did Tony think Patty was a pushover? Y
+
+
+# FILLER 30 -
+The government had obviously made a mistake, even though none of the higher level officials would admit it.
+? Did the government officials admit the mistake? N
+
+# FILLER 31 -
+It seemed unlikely that all of the illnesses had the same cause, but the doctors still thought a quarantine was a good idea.
+? Did it seem unlikely that the illnesses had the same cause? Y
+
+# FILLER 35 -
+It wasn't fair that Chelsea had to grade all the papers while Janice held office hours, but she didn't have a choice.
+? Did Chelsea have a choice about it? N
+
+# FILLER 36 -
+Travis was unexpectedly receiving the blame for the stolen equipment, but the police didn't appear to have any other leads. 
+? Did the police appear to have other leads? N
+
+# FILLER 37 -
+Although it was obvious that Jonathan's team had more skill, the other team got a lucky goal and won the game.
+? Was it Jonathan's team that was more skillful? Y
+
+
+# FILLER 38 -
+Although it was clear that the stores were going to be crazy, Julia hadn't even thought about going Christmas shopping yet.
+? Did Julia get her Christmas shopping done early this year? N
+
+# FILLER 39 -
+Although it was clear that the sophomore had a lot of talent, the pro team really needed someone with more leadership experience.
+? Was the sophomore talented? Y
+
+# FILLER 40 -
+Because the news station focused so much on the Southern candidates, a considerable number of listeners called in to complain.
+? Was it Northern candidates that the station devoted too much coverage to? N
+
+# FILLER 42 -
+Because it was obvious that the family had mob connections, no one was shocked when the oldest son turned up in jail.
+? Was it surprising that the son got sent to prison? N
+
+# FILLER 43 -
+Although it seemed silly that the movie theater required picture ID, everyone made sure to bring their drivers license.
+? Did it seem silly that the theater required picture ID? Y
+
+
+# FILLER 44 -
+Because it was obvious that the exam was going to be difficult, study groups began forming in early November.
+? Was it obvious that the exam would be difficult? Y
+
+# FILLER 45 -
+Although it seemed unlikely that everyone who was invited would show up, Jaiva made sure to cook plenty of food anyway.
+? Did it seem likely that everyone would show up? N
+
+# FILLER 46 -
+Because it seemed horrible that the dog was left alone every weekend, the neighbors offered to take care of it.
+? Did the neighbors offer to take care of the dog? Y
+
+# FILLER 47 -
+The hackers had managed to get the government website to play heavy metal music as a joke, but the officials wanted to impose stiff fines.
+? Did the officials think the hacking was no big deal? N
+
+# FILLER 48 -
+Because it was evident that the cake wouldn't be done in time, Margaret went out and bought one at the grocery store.
+? Was it a loaf of bread that Margaret bought? N
+
+
+# FILLER 50 -
+Everyone had found seats by the time the play started, although some people had to settle for the floor.
+? Did everybody at the play find a place to sit? Y
+
+# FILLER 51 -
+Lindsey and Bethany decided to go ahead and drive to Florida for spring break, even though the weather forecasters were predicting a storm.
+? Did the girls drive to the Bahamas for spring break? N
+
+# FILLER 52 -
+A lot of people couldn't afford to go on the retreat because it was being held at an expensive resort in Colorado.
+? Was the retreat going to be someplace expensive? Y
+
+# FILLER 53 -
+The couple chose to have their wedding in a quaint little church in Ireland, even though it meant that a lot of friends couldn't go.
+? Was everybody going to be able to go to the wedding? N
+
+# FILLER 54 -
+Janet wanted to buy the car with the power windows and the sunroof, even though it would obviously cost more than the other one.
+? Was it the car with the sunroof that Janet wanted? Y
+
+
+# FILLER 56 -
+Before the soldiers boarded the helicopters, the army commander gave a rousing speech about the importance of the mission.
+? Did the commander speak to the soldiers before their mission? Y
+
+# FILLER 57 -
+As the kids crept over the fence protecting the construction site, a guard dog started barking loudly.
+? Did the kids jump a fence to get to the construction site? Y
+
+# FILLER 58 -
+While Angie struggled to quiet the wailing baby, Chris put his head under the pillow and tried to sleep.
+? Did Chris help Angie with the baby? N
+
+# FILLER 59 -
+While Derek played violent video games in the basement, the girls devised a plan for sneaking out of the house unnoticed.
+? Was Derek surfing the internet in the basement? N
+
+# FILLER 60 -
+While the prime-time debate between the candidates raged on, the journalist stepped out of the room to confer with a colleague.
+? Did the journalist ever step out of the room during the debate? Y
+
+
+# FILLER 61 -
+John called the customer hotline to check on the flight reservations before Sarah left for the airport.
+? Was it John that called about flight reservations? Y
+
+# FILLER 62 -
+The media had a field day after the candidate reluctantly admitted to having several affairs with women on his campaign staff.
+? Did the candidate deny having affairs? N
+
+# FILLER 64 -
+The gas station cashier quietly called the police while the suspicious-looking man was in the bathroom.
+? Did the cashier decide to call the police of the suspicious customer? Y
+
+# FILLER 65 -
+Most of the kids in seventh period American History dozed off while Mr. Murphy was droning on about the Civil War.
+? Was it biology class that the kids fell asleep in? N
+
+# FILLER 66 -
+Marissa usually listened to Beethoven's 9th symphony while she was cleaning the house, but this time she tried some Mozart.
+? Was it Mozart that Marissa usually listened to when she was housecleaning? N
+
+
+# FILLER 67 -
+Although the stock market dropped sharply, most of the experts said that there was nothing to worry about.
+? Were the experts concerned? N
+
+# FILLER 68 -
+Because the city experienced a massive earthquake last fall, much of the annual budget had to go towards recovery.
+? Was it last fall that the earthquake happened? Y
+
+# FILLER 69 -
+Even no one would have thought it possible, Kenny managed to break the men's long jump record at the World Championships.
+? Was it the sprinting record that Kenny broke? N
+
+# FILLER 71 -
+The university sponsored a massive advertising campaign about recycling, though most students weren't motivated enough to make the effort.
+? Did the university try to promote recycling? Y
+
+# FILLER 72 -
+Since the rules of the soccer league required players to wear particular shoes, a referee checked everyone's feet before each game.
+? Did the soccer league have rules about footwear? Y
+
+
+# FILLER 73 -
+Although last year everyone ate dinner while the speaker was talking, this year the meal wasn't served until the speech was over.
+? Did people eat dinner after the speech this year? Y
+
+# FILLER 74 -
+Although last year Steve stayed home while Jana went to New York for the conference, this year both will be presenting papers.
+? Did Steve present a paper this year? Y
+
+# FILLER 75 -
+Although two years ago the activists protested while the trade meeting was being held, this year the meeting was less publicized.
+? Was the trade meeting well publicized this year? N
+
+# FILLER 77 -
+Election coverage had been delayed in previous years, though this year the local news station's coverage was live.
+? Was coverage of the election delayed in previous years? Y
+
+# FILLER 78 -
+Although this week a secretary took notes while the Congressional committee meeting was going on, no record exists for some of the earlier meetings.
+? Did the secretary take notes at the committee meeting this week? Y
+
+
+# FILLER 79 -
+Because this week some employees were surfing the web while the boss was watching, the company instituted a new internet policy.
+? Was a new internet policy created? Y
+
+# FILLER 80 -
+Because last week kids were whispering in the back while the teacher was talking, everyone had to start following a seating chart.
+? Was everyone quiet while the teacher was talking last week? N
+
+# FILLER 82 -
+A few weeks ago some students looked at their notes while a test was going on, so now exams are monitored.
+? Had students been looking at their notes during tests? Y
+
+# FILLER 87 -
+Although several months ago while the family was at dinner the baby said its first word, Sally completely missed it.
+? Did Sally get to hear the baby's first word? N
+
+# FILLER 90 -
+Although this month while the team was at training camp the coach was really strict, no one complained about it.
+? Were there complaints about the coach? N
+
+
+# FILLER 93 -
+Because several weeks ago someone made a gigantic donation, the public radio station called off their fund drive early.
+? Was it an environmental organization that was having a fundraiser? N
+
+# FILLER 96 -
+Last year while the economy was doing so poorly, IBM lost a lot of money and underwent massive layoffs.
+? Did IBM increase their profits while the economy was doing poorly? N
+
+# FILLER 98 -
+Jennie always wanted to go watch cheesy horror movies at the discount theater, but could never get anybody else to go along.
+? Did Jennie want to watch sappy romance films? N
+
+# FILLER 99 -
+The firefighters were celebrated at the parade for their bravery, and the doctors for their selflessness.
+? Was it at a concert that the doctors and firefighters were celebrated? N
+
+# FILLER 100 -
+Fred and Claire went to the orchard this weekend to pick their own apples and to try their luck in the new corn maze.
+? Was it a pumpkin that the couple picked? N
+
+
+# FILLER 101 -
+The bar was so dark and cramped inside that none of the students would ever go there unless nothing else was open.
+? Was the bar unpopular with students? Y
+
+# FILLER 102 -
+All over the day care center the teachers had put up signs reminding parents to take children in for flu shots.
+? Were the signs at the day care center about flu shots? Y
+
+# FILLER 103 -
+Harriet always found it difficult to study in places like the law library where there was complete silence.
+? Did Harriet like studying in quiet places? N
+
+# FILLER 104 -
+The computer virus that threw the business world into chaos this week was created by a 14-year-old high school student.
+? Was it a high school student that was responsible for the computer virus? Y
+
+# FILLER 105 -
+The candidate promised to protect the land from oil companies and to develop a better-publicized recycling program.
+? Did the candidate make promises about recycling? Y
+
+
+# FILLER 106 -
+So many people were using the gym last night that it was practically impossible to find a machine that was open.
+? Was the gym pretty empty last night? N
+
+# FILLER 108 -
+Jake had to go to the dry cleaners very early this morning to pick up the uniform for the important government ceremony.
+? Was it for a costume party that Jake needed the uniform? N
+
+# FILLER 109 -
+The baggers at the grocery store thought about going on strike, but the management kept promising that things were about to change.
+? Were the baggers considering a strike? Y
+
+# FILLER 110 -
+Everyone at the technology conference had to eat chicken with cherry sauce for lunch and grilled salmon for dinner.
+? Was it chicken that the people at the conference ate for lunch? Y
+
+# FILLER 111 -
+Dominique went to George Washington University for her bachelor's in English and then to Harvard for her master's in business.
+? Was it at Harvard that Dominique got her master's degree? Y
+
+
+# FILLER 112 -
+Last month the aquarium staff struggled to figure out what was wrong with the killer whale, which was acting tired and wouldn't do tricks anymore.
+? Was something wrong with the whale? Y
+
+# FILLER 113 -
+Victor had cans of soup piled up on the counter and old newspapers and magazines strewn all over the living room floor.
+? Was Victor's apartment pretty tidy? N
+
+# FILLER 115 -
+Samantha got nervous during the big interview with the advertising executive and unwisely brought up the topic of politics.
+? Was Samantha nervous at the interview? Y
+
+# FILLER 116 -
+No one in the main office knew where the beautiful yellow roses had come from or who might have sent them.
+? Did anyone know who sent the flowers? N
+
+# FILLER 117 -
+It was getting closer and closer to showtime, and still there was no sign of the young actress who played the leading role.
+? Was it the director that was missing? N
+
+
+# FILLER 118 -
+The organization offered young adults a way to spend spring break both visiting exotic new countries and helping others in need.
+? Did the organization promote helping others? Y
+
+# FILLER 122 -
+The new genetically-engineered corn is supposed to be more resistant to disease and may help famine-stricken countries.
+? Will the new corn be more disease-resistant? Y
